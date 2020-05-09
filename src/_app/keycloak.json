@@ -1,0 +1,8 @@
+{
+  "realm": "EcommerceFHVGTS",
+  "auth-server-url": "http://localhost:8095/auth/",
+  "ssl-required": "external",
+  "resource": "ecommerce_fhvgts",
+  "public-client": true,
+  "confidential-port": 0
+}
